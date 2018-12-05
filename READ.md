@@ -1,1 +1,2 @@
 #datamining
+kmeans &GMM
